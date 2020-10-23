@@ -48,6 +48,8 @@ T-Mobile Coverage Data. (pdf)[https://ruralwireless.org/rwa-calls-for-fccinvesti
 - Alex Varshavsky, Denis Pankratov, John Krumm, and Eyal De Lara. 2008. Calibree: Calibration-free localization using relative distance esti- mations. In International Conference on Pervasive Computing. [link]()
 - Jie Yang, Alexander Varshavsky, Hongbo Liu, Yingying Chen, and Marco Gruteser. 2010. Accuracy characterization of cell tower local- ization. In Proceedings of the 12th ACM international conference on Ubiquitous computing. [link]()
 - Kiran Yedavalli, Bhaskar Krishnamachari, Sharmila Ravula, and Bhaskar Srinivasan. 2005. Ecolocation: a sequence based technique for RF localization in wireless sensor networks. [link]()
+- Marina, Mahesh K., Valentin Radu, and Konstantinos Balampekos. "Impact of indoor-outdoor context on crowdsourcing based mobile coverage analysis." Proceedings of the 5th Workshop on All Things Cellular: Operations, Applications and Challenges. 2015. [link]()
+
 
 ### Coverage estimation
 Noman Shabbir, Muhammad T Sadiq, Hasnain Kashif, and Rizwan Ullah. 2011. Comparison of radio propagation models for long term evolution (LTE) network [link]()
